@@ -1,0 +1,5 @@
+22/11/2023
+update .gitignore
+added other crud to student details
+
+update student.php (Modify display)
